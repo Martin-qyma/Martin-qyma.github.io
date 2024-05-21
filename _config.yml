@@ -21,12 +21,12 @@ repository               : "Martin-qyma/Martin-qyma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile_casual.png"
   name             : "Qiyao (Martin) Ma"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad @ The University of Hong Kong (HKU)."
   location         : # "Hong Kong"
-  employer         : "The University of Hong Kong"
+  employer         : "HKU"
   uri              : # URL
   email            : "martin.qyma@gmail.com" 
 

@@ -16,7 +16,7 @@ Recent News
 -------------
 I'm visiting Yale University as summer research intern, under the supervision of [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/).
 
-We've submitted our lastest paper regarding *Large Language Models for Explainable Recommendation* to ACL ARR, arxiv version to be released soon.
+We've submitted our latest paper regarding *Large Language Models for Explainable Recommendation* to ACL ARR, arxiv version to be released soon.
 
 Research Experiences
 --------------

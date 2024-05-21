@@ -20,12 +20,12 @@ We've submitted our lastest paper regarding *Large Language Models for Explainab
 
 Research Experiences
 --------------
-**Data Intelligence Lab@HKU, Research Intern**
-*Sept 2023 - May 2024*
+**Data Intelligence Lab@HKU, Research Intern**\
+*Sept 2023 - May 2024*\
 Supervisor: Prof. Chao Huang
 
-**University of Wisconsin-Madison (UW-Madison), Research Intern**
-*Mar 2023 – Aug 2023*
+**University of Wisconsin-Madison (UW-Madison), Research Intern**\
+*Mar 2023 – Aug 2023*\
 Supervisor: Prof. Hanbeak Lyu
 
 

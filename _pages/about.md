@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
 
-My research interests lie in **graph neural networks** and **large language models**, with applications in **recommender systems**.
+My research interests lie in **Graph Neural Networks (GNNs)** and **Large Language Models (LLMs)**, with applications in **Recommender Systems (RS)**.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 <!-- Feel free to reach out if you'd like to brainstorm ideas, discuss potential projects, or just geek out about the latest developments in our field. I'm open to other related areas as well. -->
@@ -16,7 +16,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 Research Experiences
 --------------
 **Department of CS, Yale University** (New Haven, CT, USA)\
-*May 2024 - Now*
+*May 2024 - Now*\
 Summer research intern advised by [*Prof. Rex Ying*](https://www.cs.yale.edu/homes/ying-rex/)
 
 **Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)\

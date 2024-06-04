@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     # url: /publications/
-  
-  - title: "Beyond Research"
-    # url: /teaching/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -17,8 +14,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Awards"
+    url: /awards/
     
-  # - title: "CV"
+  - title: "CV"
   #   url: /cv/
     
   # - title: "Guide"

@@ -8,22 +8,21 @@ redirect_from:
 ---
 Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
 
-My research interests broadly lie in **graph neural networks** and **large language models**, with applications in **recommender systems**.
+My research interests lie in **graph neural networks** and **large language models**, with applications in **recommender systems**.
 
-Feel free to reach out if you'd like to brainstorm ideas, discuss potential projects, or just geek out about the latest developments in our field. I'm open to other related areas as well.
-
-Recent News
--------------
-I'm visiting Yale University as summer research intern, under the supervision of [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/).
-
-We've submitted our latest paper regarding *Large Language Models for Explainable Recommendation* to ACL ARR, arxiv version to be released soon.
+I am also open to other topics. Feel free to reach out if you would like to chat!
+<!-- Feel free to reach out if you'd like to brainstorm ideas, discuss potential projects, or just geek out about the latest developments in our field. I'm open to other related areas as well. -->
 
 Research Experiences
 --------------
-**Data Intelligence Lab@HKU, Research Intern**\
-*Sept 2023 - May 2024*\
-Supervisor: [Prof. Chao Huang](https://sites.google.com/view/chaoh)
+**Department of CS, Yale University** (New Haven, CT, USA)\
+*May 2024 - Now*
+Summer research intern advised by [*Prof. Rex Ying*](https://www.cs.yale.edu/homes/ying-rex/)
 
-**University of Wisconsin-Madison (UW-Madison), Research Intern**\
+**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)\
+*Sept 2023 - May 2024*\
+Research intern advised by [*Prof. Chao Huang*](https://sites.google.com/view/chaoh)
+
+**IFDS, University of Wisconsin-Madison** (Madison, WI, USA)\
 *Mar 2023 – Aug 2023*\
-Supervisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com)
+Research assistant of [*Prof. Hanbaek Lyu*](https://hanbaeklyu.com)

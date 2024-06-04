@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Preprint
+*   **XRec: Large Language Models for Explainable Recommendation**  
+    **Qiyao Ma**, Xubin Ren, Chao Huang.
+    *Preprint 2024*
+    [[PDF]]()[[Code]](https://github.com/HKUDS/XRec)

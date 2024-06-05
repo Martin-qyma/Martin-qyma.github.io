@@ -9,4 +9,4 @@ author_profile: true
 *   **XRec: Large Language Models for Explainable Recommendation**  
     **Qiyao Ma**, Xubin Ren, Chao Huang.
     *Preprint 2024*
-    [[PDF]]()[[Code]](https://github.com/HKUDS/XRec)
+    [[PDF]](https://arxiv.org/abs/2406.02377)[[Code]](https://github.com/HKUDS/XRec)

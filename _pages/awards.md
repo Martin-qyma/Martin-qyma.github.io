@@ -12,10 +12,12 @@ author_profile: true
 ## Competition
 
 * **3rd place** in Simon Marais Mathematics Competition (University of Hong Kong)
-* **First Price** in National Mathematical Olympics (Jiangsu Province)
-* **First Price** in National Physical Olympics (Jiangsu Province)
+* **First Price** in National Mathematics Olympiad (Jiangsu Province)
+* **First Price** in National Physics Olympiad (Jiangsu Province)
 
 ## Badminton
 
-* **3rd place** (*Team of City Wuxi*) in Jiangsu Provincial Youth Badminton Championships
-* **5th place** (*Men's Double*) in Jiangsu Provincial Youth Badminton Championships
+* **Sportsmanship Award Athlete** in National Youth Badminton Championships (Jiangsu Province)
+* **3rd place** (*Wuxi City Team*) in National Youth Badminton Championships (Jiangsu Province)
+* **5th place** (*Men's Double*) in National Youth Badminton Championships (Jiangsu Province)
+* **Champion** (*Captain*) in High School Badminton League (Wuxi City)

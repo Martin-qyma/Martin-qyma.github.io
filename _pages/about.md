@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
 
-My research interests primarily lie in data mining and recommender systems, with a focus on developing machine learning models that can reason over richly-labeled relational structures, graphs, and networks. I am particularly interested in applying graph neural networks and large language models to build multi-modal foundation models.
+My research interests lie in data mining and recommender systems, with a focus on developing machine learning models that can reason over richly-labeled relational structures, graphs, and networks. I am particularly interested in applying graph neural networks and large language models to build multi-modal foundation models.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 

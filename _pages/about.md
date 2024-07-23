@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
 
-My research interests lie in data mining and large language models, with a focus on developing machine learning models that can retrieve and reason over relational structures, graphs, and networks. I am particularly interested in building multi-modal foundation models for recommender systems.
+My research interests lie in **data mining** and **large language models**, with a focus on developing machine learning models that can retrieve and reason over relational structures, graphs, and networks. I am particularly interested graph neural networks and applications in recommender systems.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
@@ -17,14 +17,14 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 Research Experiences
 --------------------
 
-**Department of CS, Yale University** (New Haven, CT, USA)\
-*May 2024 - Now*\
+**Department of CS, Yale University** (New Haven, CT, USA)
+*May 2024 - Now*
 Summer research intern advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/)
 
-**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)\
-*Sept 2023 - May 2024*\
+**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)
+*Sept 2023 - May 2024*
 Research intern advised by [Prof. Chao Huang](https://sites.google.com/view/chaoh)
 
-**IFDS, University of Wisconsin-Madison** (Madison, WI, USA)\
-*Mar 2023 – Aug 2023*\
+**IFDS, University of Wisconsin-Madison** (Madison, WI, USA)
+*Mar 2023 – Aug 2023*
 Research assistant of [Prof. Hanbaek Lyu](https://hanbaeklyu.com)

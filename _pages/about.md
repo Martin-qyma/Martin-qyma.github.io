@@ -23,7 +23,7 @@ Research Experiences
 
 **Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)\
 *Sept 2023 - May 2024*\
-*Research intern (Advisor:* [Prof. Chao Huang](https://sites.google.com/view/chaoh))
+*Research intern (Advisor: [Prof. Chao Huang](https://sites.google.com/view/chaoh))*
 
 **IFDS, University of Wisconsin-Madison** (Madison, WI, USA)\
 *Mar 2023 – Aug 2023*\

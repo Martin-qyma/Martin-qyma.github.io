@@ -6,8 +6,7 @@ author_profile: true
 ---
 ## Scholarship
 
-* **Talent Development Scholarship**, Univerisity of Hong Kong, 2022 & 2023 (twice).\
-  *HKSAR Government Scholarship Fund*
+* **Talent Development Scholarship** (HKSAR Government Scholarship Fund) (twice)
 
 ## Competition
 

@@ -18,13 +18,13 @@ Research Experiences
 --------------------
 
 **Department of CS, Yale University** (New Haven, CT, USA)\
-*May 2024 - Now*\
-Summer research intern advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/)
+*June 2024 - Now*\
+*Research intern (Advisor: [*Prof. Rex Ying*](https://www.cs.yale.edu/homes/ying-rex/))*
 
 **Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR, China)\
 *Sept 2023 - May 2024*\
-Research intern advised by [Prof. Chao Huang](https://sites.google.com/view/chaoh)
+*Research intern (Advisor:* [*Prof. Chao Huang*](https://sites.google.com/view/chaoh))
 
 **IFDS, University of Wisconsin-Madison** (Madison, WI, USA)\
 *Mar 2023 – Aug 2023*\
-Research intern advised by [Prof. Hanbaek Lyu](https://hanbaeklyu.com)
+*Research intern (Advisor: [*Prof. Hanbaek Lyu*](https://hanbaeklyu.com))*

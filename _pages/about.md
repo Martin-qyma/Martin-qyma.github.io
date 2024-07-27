@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
 
-My research interests lie in **data mining** and **large language models**, with a focus on developing machine learning models that can retrieve and reason over relational structures, graphs, and networks. I am particularly interested in graph neural networks and applications in recommender systems.
+My research interests lie in recommender systems and large language models, with a focus on developing machine learning models that can retrieve and reason over relational structures, graphs, and networks. I am particularly interested in graph neural networks and multi-modal foundation models.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
@@ -27,4 +27,4 @@ Research Experiences
 
 **IFDS, University of Wisconsin-Madison** (Madison, WI, USA)\
 *Mar 2023 – Aug 2023*\
-*Research intern (Advisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com))*
+*Research assistant (Advisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com))*

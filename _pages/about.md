@@ -14,7 +14,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 <!-- Feel free to reach out if you'd like to brainstorm ideas, discuss potential projects, or just geek out about the latest developments in our field. I'm open to other related areas as well. -->
 
-News
+🔥 News
 --------------------
 * **Sept 2024:** 🎉 Our **XRec** is accepted by **EMNLP 2024 Findings**! Thanks to my advisor *Prof. Chao huang* and PhD mentor *Xubin Ren*, see you in Miami!
 * **May 2024:** ✈️ Fly to New Haven and start my summer research internship.

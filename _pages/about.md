@@ -17,7 +17,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 🔥 News
 --------------------
 * **Sept 2024:** 🎉 Our **XRec** is accepted by **EMNLP 2024 Findings**! Thanks to my advisor *Prof. Chao Huang* and PhD mentor *Xubin Ren*, see you in Miami!
-* **May 2024:** ✈️ Fly to New Haven and start my summer research internship.
+* **May 2024:** ✈️ Fly to New Haven and start my summer research internship at Yale University.
 
 
 Research Experiences

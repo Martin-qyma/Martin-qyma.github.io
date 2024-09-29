@@ -5,5 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-* "XRec: Large Language Models for Explainable Recommendation" *(EMNLP 2024 Findings)*\
-  **<u>Qiyao Ma</u>**, Xubin Ren, Chao Huang. [[PDF]](https://arxiv.org/abs/2406.02377)[[Code]](https://github.com/HKUDS/XRec)
+* **[EMNLP 2024]** "XRec: Large Language Models for Explainable Recommendation"\
+  **<u>Qiyao Ma</u>**, Xubin Ren, Chao Huang.\
+[[Paper]](https://arxiv.org/abs/2406.02377)[[Code]](https://github.com/HKUDS/XRec)[[Media]](https://mp.weixin.qq.com/s/SNIAPbtSV6F76WYJNTkbRQ)

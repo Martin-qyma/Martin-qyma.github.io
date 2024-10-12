@@ -16,7 +16,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 🔥 News
 --------------------
-* **Sept 2024:** 🎉 Our **XRec** is accepted by **EMNLP 2024 Findings**! Thanks to my advisor *Prof. Chao Huang* and PhD mentor *Xubin Ren*, see you in Miami!
+* **Sept 2024:** 🎉 Our **XRec** is accepted to **EMNLP 2024**, See you in Miami!
 * **May 2024:** ✈️ Fly to New Haven and start my summer research internship at Yale University.
 
 
@@ -24,7 +24,7 @@ Research Experiences
 --------------------
 
 **Department of CS, Yale University** (New Haven, Connecticut)\
-*June 2024 - Now*\
+*June 2024 - Present*\
 *Research intern (Advisor: [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/))*
 
 **Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\

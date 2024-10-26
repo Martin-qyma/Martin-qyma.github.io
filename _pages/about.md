@@ -23,14 +23,14 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 Research Experiences
 --------------------
 
-**Department of CS, Yale University** (New Haven, Connecticut)
-*June 2024 - Present*
+**Department of CS, Yale University** (New Haven, Connecticut)\
+*June 2024 - Present*\
 *Research intern (Advisor: [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/))*
 
-**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)
-*Sept 2023 - May 2024*
+**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\
+*Sept 2023 - May 2024*\
 *Research intern (Advisor: [Prof. Chao Huang](https://sites.google.com/view/chaoh))*
 
-**IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)
-*Mar 2023 – Aug 2023*
+**IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
+*Mar 2023 – Aug 2023*\
 *Research assistant (Advisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com))*

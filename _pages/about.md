@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a senior undergrad at University of Hong Kong (HKU), majoring in computer science and mathematics.
+Hi there! I am a senior Math & CS undergrad at University of Hong Kong (HKU). I'm currently seeking a CS Ph.D. position starting from Fall 2025.
 
-My research interests lie in large language models and recommender systems, with a focus on developing generative models that can retrieve and reason over relational structures, graphs, and networks.
+My research interests lie in large language models and information retrieval, with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in the recommender systems and graph representation learning.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
@@ -16,8 +16,8 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 🔥 News
 -------
-
-* **Sept 2024:** 🎉 Our **XRec** is accepted to **EMNLP 2024**, See you in Miami!
+* **Nov 2024:** I'm attending **EMNLP 2024** in Miami. Let's meet up!
+* **Sept 2024:** 🎉 My first-author paper **XRec** is accepted to **EMNLP 2024**.
 * **May 2024:** ✈️ Fly to New Haven and start my summer research internship at Yale University.
 
 Research Experiences

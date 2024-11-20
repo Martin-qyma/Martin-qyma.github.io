@@ -16,6 +16,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 🔥 News
 -------
+
 * **Nov 2024:** I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** 🎉 My first-author paper **XRec** is accepted to **EMNLP 2024**.
 * **May 2024:** ✈️ Fly to New Haven and start my summer research internship at Yale University.
@@ -23,14 +24,14 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 Research Experiences
 --------------------
 
-**Department of CS, Yale University** (New Haven, Connecticut)\
-*June 2024 - Present*\
+**Department of CS, Yale University** (New Haven, Connecticut)
+*June 2024 - Oct 2024*
 *Research intern (Advisor: [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/))*
 
-**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\
-*Sept 2023 - May 2024*\
+**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)
+*Sept 2023 - May 2024*
 *Research intern (Advisor: [Prof. Chao Huang](https://sites.google.com/view/chaoh))*
 
-**IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
-*Mar 2023 – Aug 2023*\
+**IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)
+*Mar 2023 – Aug 2023*
 *Research assistant (Advisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com))*

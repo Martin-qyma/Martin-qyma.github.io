@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a senior Math & CS undergrad at University of Hong Kong (HKU). I'm currently seeking a CS Ph.D. position starting from Fall 2025.
+Hi there! I am a senior undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science. I'm seeking CS Ph.D. positions starting in Fall 2025.
 
-My research interests lie in large language models and information retrieval, with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in the recommender systems and graph representation learning.
+My research interests generally lie in large language models (**LLMs**) and information retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in recommender systems and multimodal foundation models.
 
 I am also open to other topics. Feel free to reach out if you would like to chat!
 
@@ -17,9 +17,10 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 🔥 News
 -------
 
-* **Nov 2024:** I'm attending **EMNLP 2024** in Miami. Let's meet up!
+* **Nov 2024:** 💡 My first-author paper **HARec** is public on arXiv, check it out!
+* **Nov 2024:** 🏝️ I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** 🎉 My first-author paper **XRec** is accepted to **EMNLP 2024**.
-* **May 2024:** ✈️ Fly to New Haven and start my summer research internship at Yale University.
+* **May 2024:** ✈️ Start my summer research internship at Yale University.
 
 Research Experiences
 --------------------
@@ -33,5 +34,5 @@ Research Experiences
 *Research intern (Advisor: [Prof. Chao Huang](https://sites.google.com/view/chaoh))*
 
 **IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
-*Mar 2023 – Aug 2023*\
+*May 2023 – Aug 2023*\
 *Research assistant (Advisor: [Prof. Hanbaek Lyu](https://hanbaeklyu.com))*

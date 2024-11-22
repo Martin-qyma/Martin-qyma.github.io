@@ -9,5 +9,6 @@ author_profile: true
   **<u>Qiyao Ma</u>**, Xubin Ren, Chao Huang.\
 [[Paper]](https://arxiv.org/abs/2406.02377)[[Code]](https://github.com/HKUDS/XRec)[[Media]](https://mp.weixin.qq.com/s/SNIAPbtSV6F76WYJNTkbRQ)
 
-* "Hyperbolic Graph-LLM Alignment for Recommender Systems" *(under submission for KDD 2025)*\
-  **<u>Qiyao Ma</u>**, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying.
+* "HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems"\
+  **<u>Qiyao Ma</u>**, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying.\
+  [[Paper]](https://arxiv.org/abs/2411.13865) *(under submission for KDD 2025)*

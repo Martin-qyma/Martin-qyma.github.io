@@ -13,7 +13,7 @@ author_profile: true
 
 ## Competition
 
-* **3rd place** in Simon Marais Mathematics Competition *(University of Hong Kong)*
+* **3rd place** in Simon Marais Mathematics Competition *(The University of Hong Kong)*
 * **First Price** in National Mathematics Olympiad *(Jiangsu Province)*
 * **First Price** in National Physics Olympiad *(Jiangsu Province)*
 

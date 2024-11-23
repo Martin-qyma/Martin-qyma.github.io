@@ -11,4 +11,4 @@ author_profile: true
 
 * "HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems"\
   **<u>Qiyao Ma</u>**, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying.\
-  [[Paper]](https://arxiv.org/abs/2411.13865) *(under submission for KDD 2025)*
+  [[Paper]](https://arxiv.org/abs/2411.13865) *(to be submitted to KDD 2025)*

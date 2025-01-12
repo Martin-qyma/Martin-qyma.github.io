@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a senior undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science. I'm seeking CS Ph.D. positions starting in Fall 2025.
+Hi there! I am an undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science. I'm seeking CS Ph.D. positions starting in Fall 2025.
 
 My research interests generally lie in large language models (**LLMs**) and information retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in recommender systems and multimodal foundation models.
 

@@ -17,7 +17,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 🔥 News
 -------
 
-* **Nov 2024:** 💡 My first-author paper **HARec** is public on arXiv, check it out!
+* **Nov 2024:** 💡 My first-author paper **HERec** is public on arXiv, check it out!
 * **Nov 2024:** 🏝️ I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** 🎉 My first-author paper **XRec** is accepted to **EMNLP 2024**.
 * **May 2024:** ✈️ Start my summer research internship at Yale University.

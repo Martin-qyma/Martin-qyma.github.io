@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am an incoming CS Ph.D. student at UC Davis. Currently, I am a undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science.
+Hi there! I am a undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science.
 
 My research interests generally lie in large language models (**LLMs**) and information retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in recommender systems and multimodal foundation models.
 
@@ -16,7 +16,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 🔥 News
 -------
-I will be joining **UC Davis** as a Ph.D. student in Computer Science, co-advised by Professor Zhe Zhao and Professor Junshan Zhang.
+
 * **Nov 2024:** 💡 Our paper **HERec** is public on arXiv, check it out!
 * **Nov 2024:** 🏝️ I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** 🎉 Our paper **XRec** is accepted to EMNLP 2024.

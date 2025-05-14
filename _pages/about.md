@@ -8,9 +8,9 @@ redirect_from:
 ---
 Hi there! I am a undergraduate at The University of Hong Kong (HKU), double majoring in Mathematics and Computer Science.
 
-My research interests generally lie in optimization and information retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in recommender systems and multimodal foundation models.
+<!-- My research interests generally lie in Large Language Models (LLMs) and Information Retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures. I'm particularly interested in recommender systems and multimodal foundation models.
 
-I am also open to other topics. Feel free to reach out if you would like to chat!
+I am also open to other topics. Feel free to reach out if you would like to chat! -->
 
 <!-- Feel free to reach out if you'd like to brainstorm ideas, discuss potential projects, or just geek out about the latest developments in our field. I'm open to other related areas as well. -->
 

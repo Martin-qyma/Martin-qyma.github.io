@@ -7,7 +7,7 @@ author_profile: true
 ## Scholarship
 
 * **Talent Development Scholarship** *(2022 & 2023, twice)*\
-  *HKSAR Government Scholarship Fund*
+  *The University of Hong Kong (HKU)*
 * **Wong Shek-Yung Memorial Enrichment Award** *(2023)*\
   *The University of Hong Kong (HKU)*
 

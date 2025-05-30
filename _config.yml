@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qiyao Ma's Homepage"
+title                    : "Qiyao Ma (马琦尧)"
 title_separator          : "-"
-name                     : &name "Qiyao (Martin) Ma"
+name                     : &name "Qiyao Ma (马琦尧)"
 description              : &description "Undergraduate @ University of Hong Kong (HKU)"
 url                      : https://martin-qyma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "Martin-qyma/Martin-qyma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "graduate.JPG"
-  name             : "Qiyao (Martin) Ma"
+  avatar           : "graduate_w.JPG"
+  name             : "Qiyao Ma"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad @ The University of Hong Kong (HKU)."
   location         : # "Hong Kong"

@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Papers"
+title: 
 permalink: /papers/
 author_profile: true
 ---
 
-Preprint
---------------------
+## Preprint
+---
 
 * "Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems" (under review)\
   **<u>Qiyao Ma</u>**, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying.\
@@ -16,8 +16,8 @@ Preprint
   Menglin Yang, Jialin Chen, Yifei Zhang, Jiahong Liu, Jiasheng Zhang, **<u>Qiyao Ma</u>**, Harshit Verma, Qianru Zhang, Min Zhou, Irwin King, Rex Ying.\
   [[Paper]](https://arxiv.org/abs/2501.00365)
 
-Publications
---------------------
+## Publications
+---
 
 * **[EMNLP 2024]** "XRec: Large Language Models for Explainable Recommendation"\
   **<u>Qiyao Ma</u>**, Xubin Ren, Chao Huang.\

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ----------
-## Scholarship
+### Scholarship
 
 * **Talent Development Scholarship** *(2022 & 2023, twice)*\
   *The University of Hong Kong (HKU)*
@@ -14,14 +14,14 @@ author_profile: true
   *The University of Hong Kong (HKU)*
 
 ----------
-## Competition
+### Competition
 
 * **3rd place** in Simon Marais Mathematics Competition *(The University of Hong Kong)*
 * **First Price** in National Mathematics Olympiad *(Jiangsu Province)*
 * **First Price** in National Physics Olympiad *(Jiangsu Province)*
 
 ----------
-## Badminton
+### Badminton
 
 * **Sportsmanship Award Athlete** in National Youth Badminton Championships *(Jiangsu Province)*
 * **3rd place** *(Wuxi City Team)* in National Youth Badminton Championships *(Jiangsu Province)*

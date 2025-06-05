@@ -8,12 +8,11 @@ author_profile: true
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
-  {% capture month_year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-  {% if month_year != written_month_year %}
-    <h2 id="{{ month_year | slugify }}" class="archive__subtitle">{{ month_year }}</h2>
-    {% capture written_month_year %}{{ month_year }}{% endcapture %}
+  {% if forloop.first %}
+    <hr class="separator">
+  {% else %}
+    <hr class="separator">
   {% endif %}
-  
   <div class="post-entry">
     <h2 class="post-title">{{ post.title }}</h2>
     <p class="post-excerpt">{{ post.excerpt }}</p>

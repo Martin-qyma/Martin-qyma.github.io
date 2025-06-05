@@ -20,9 +20,9 @@ author_profile: true
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% if forloop.first %}
-    <hr class="separator"> <!-- First separation line -->
+    <hr class="separator">
   {% else %}
-    <hr class="separator"> <!-- Separation line between posts -->
+    <hr class="separator">
   {% endif %}
   <div class="post-entry">
     <h2 class="post-title">{{ post.title }}</h2>

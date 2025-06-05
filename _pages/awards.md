@@ -12,6 +12,7 @@ author_profile: true
 * **Wong Shek-Yung Memorial Enrichment Award** *(2023)*\
   *The University of Hong Kong (HKU)*
 
+&nbsp;
 # Competition
 ---
 
@@ -19,7 +20,7 @@ author_profile: true
 * **First Price** in National Mathematics Olympiad *(Jiangsu Province)*
 * **First Price** in National Physics Olympiad *(Jiangsu Province)*
 
-
+&nbsp;
 # Badminton
 ---
 

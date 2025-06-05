@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /blog/
-title: "Blog"
+permalink: /blogs/
+title: "Blogs"
 author_profile: true
 ---
 
@@ -17,15 +17,16 @@ author_profile: true
 {% endfor %} -->
 
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% if forloop.first %}
-    <hr class="separator"> <!-- First separation line -->
-  {% endif %}
-  <div class="post-entry">
-    <h2 class="post-title">{{ post.title }}</h2>
-    <p class="post-excerpt">{{ post.excerpt }}</p>
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Read More</a>
-  </div>
-{% endfor %}
+<div class="archive">
+  {% include base_path %}
+  {% for post in site.posts %}
+    {% if forloop.first %}
+      <hr class="separator"> <!-- First separation line -->
+    {% endif %}
+    <div class="post-entry">
+      <h2 class="post-title">{{ post.title }}</h2>
+      <p class="post-excerpt">{{ post.excerpt }}</p>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Read more</a>
+    </div>
+  {% endfor %}
+</div>

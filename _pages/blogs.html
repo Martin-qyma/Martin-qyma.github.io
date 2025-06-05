@@ -16,17 +16,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- {% include base_path %}
+{% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
-  {% if forloop.first %}
-    <hr class="separator">
-  {% else %}
-    <hr class="separator">
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
+  
   <div class="post-entry">
     <h2 class="post-title">{{ post.title }}</h2>
     <p class="post-excerpt">{{ post.excerpt }}</p>
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">READ MORE</a>
   </div>
-{% endfor %} -->
+{% endfor %}

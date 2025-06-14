@@ -15,10 +15,14 @@ author_profile: true
 # Preprints
 ---
 
-* "Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems" (under review)\
+* "Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems"\
   **<u>Qiyao Ma</u>**, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying.\
   [[Paper]](https://arxiv.org/abs/2411.13865) [[Code]](https://github.com/Martin-qyma/HERec)
 
-* "Low-Rank Adaptation for Foundation Models: A Comprehensive Review" [Preprint]\
+* "Low-Rank Adaptation for Foundation Models: A Comprehensive Review"\
   Menglin Yang, Jialin Chen, Yifei Zhang, Jiahong Liu, Jiasheng Zhang, **<u>Qiyao Ma</u>**, Harshit Verma, Qianru Zhang, Min Zhou, Irwin King, Rex Ying.\
   [[Paper]](https://arxiv.org/abs/2501.00365)
+
+* "MobCLIP: Learning General-purpose Geospatial Representation at Scale"\
+  Ya Wen, Jixuan Cai, **<u>Qiyao Ma</u>**, Linyan Li, Xinhua Chen, Chris Webster, Yulun Zhou.\
+  [[Paper]](https://arxiv.org/abs/2506.01297) [[Code]](https://github.com/ylzhouchris/MobCLIP)

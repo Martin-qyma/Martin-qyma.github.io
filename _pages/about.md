@@ -19,7 +19,7 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 * **Nov 2024:** 💡 Our paper **HERec** is public on arXiv, check it out!
 * **Nov 2024:** 🏝️ I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** 🎉 Our paper **XRec** is accepted to EMNLP 2024.
-<!-- * **May 2024:** ✈️ Start my summer research internship at Yale University. -->
+* **May 2024:** ✈️ Start my summer research internship at Yale University.
 
 
 Academic Experiences
@@ -33,6 +33,6 @@ Research intern (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-re
 *Sept 2023 - May 2024*\
 Research intern (Advisor: Prof. [Chao Huang](https://sites.google.com/view/chaoh))
 
-<!-- **IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
+**IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
 *May 2023 – Aug 2023*\
-*Research assistant (Advisor: Prof. Hanbaek Lyu)* -->
+Research assistant (Advisor: Prof. [Hanbaek Lyu](https://hanbaeklyu.com))

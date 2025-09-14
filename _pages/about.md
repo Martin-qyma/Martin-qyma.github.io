@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming CS PhD at UC Davis, co-advised by Prof. [Zhe Zhao](https://sites.google.com/view/zhezhao) and Prof. [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Currently, I work as a research intern at Tencent. Before that, I obtained my Bachelor degree in mathematics and computer science at The University of Hong Kong (HKU).
+I am a first-year Ph.D. student at UC Davis, co-advised by Prof. [Zhe Zhao](https://sites.google.com/view/zhezhao) and Prof. [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
 
 My research interests generally lie in Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures.
 
@@ -14,13 +14,13 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 
 News
 -------
-
+* **Sep 2025:** Arrive in Davis to begin my Ph.D. journey.
 * **Jun 2025:** Start summer research internship at Tencent.
 * **Nov 2024:** I'm attending **EMNLP 2024** in Miami. Let's meet up!
 * **Sept 2024:** Our paper **XRec** is accepted to EMNLP 2024.
 * **May 2024:** Start summer research internship at Yale University.
 
-
+<!-- 
 Academic Experiences
 --------------------
 
@@ -30,7 +30,7 @@ Research intern (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-re
 
 **Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\
 *Sept 2023 - May 2024*\
-Research intern (Advisor: Prof. [Chao Huang](https://sites.google.com/view/chaoh))
+Research intern (Advisor: Prof. [Chao Huang](https://sites.google.com/view/chaoh)) -->
 
 <!-- **IFDS, University of Wisconsin-Madison** (Madison, Wisconsin)\
 *May 2023 – Aug 2023*\

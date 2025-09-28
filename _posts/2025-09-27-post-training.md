@@ -1,6 +1,6 @@
 ---
-title: 'Reflections on Post-Training'
+title: 'Some Thoughts on Post-Training'
 date: 2025-09-27
 ---
 
-Started writing this post in 2025
+Post-training on language models have little space.

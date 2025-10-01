@@ -6,11 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student at UC Davis, co-advised by Prof. [Zhe Zhao](https://sites.google.com/view/zhezhao) and Prof. [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
+I am a first-year Ph.D. student at UC Davis, co-advised by Professor [Zhe Zhao](https://sites.google.com/view/zhezhao) and Professor [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
 
-My research interests generally lie in Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a focus on developing generative models that can retrieve and reason over relational structures.
+My research interests center on Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a particular focus on developing generative models that align with human interactions and preferences (*reward modeling, multimodal foundation models*), as well as on retrieving and reasoning over complex relational structures (*recommender systems*).
 
-I am also open to other topics. Feel free to reach out if you would like to chat.
+Experience
+----------
+**WeChat, Tencent** (Shenzhen, China)\
+*June 2025 - Sept 2025*\
+Research Internship
+
+**Department of Computer Science, Yale University** (New Haven, Connecticut)\
+*June 2024 - Oct 2024*\
+Research Internship (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex))
+
+**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\
+*Sept 2023 - May 2024*\
+Research Internship (Advisor: Prof. [Chao Huang](https://sites.google.com/view/chaoh))
 
 News
 -------

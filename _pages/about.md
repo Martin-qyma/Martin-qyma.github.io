@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student at UC Davis, co-advised by Professor [Zhe Zhao](https://sites.google.com/view/zhezhao) and Professor [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
+I am a first-year CS Ph.D. student at UC Davis, co-advised by Professor [Zhe Zhao](https://sites.google.com/view/zhezhao) and Professor [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
 
-My research interests center on Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a particular focus on developing generative models that align with human interactions and preferences (*reward modeling, multimodal foundation models*), as well as on retrieving and reasoning over complex relational structures (*recommender systems*).
+My research interests center on Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a particular focus on developing generative models that align with human interactions and preferences (reinforcement learning, reward modeling), as well as on retrieving and reasoning over complex relational structures (recommender systems).
 
 Experience
 ----------

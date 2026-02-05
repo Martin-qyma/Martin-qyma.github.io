@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a first-year CS Ph.D. student at UC Davis, co-advised by Professor [Zhe Zhao](https://sites.google.com/view/zhezhao) and Professor [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
 
-My research interests center on Large Language Models (**LLMs**) and Information Retrieval (**IR**), with a particular focus on developing generative models that align with human interactions and preferences (reinforcement learning, reward modeling), as well as on retrieving and reasoning over complex relational structures (recommender systems).
+I develop generative models that align with human preferences and interactions, mainly focusing on LLM post-training techniques such as reinforcement learning and reward modeling. I also work on retrieving and reasoning over complex relational structures, with applications in recommender systems.
 
 Experience
 ----------
@@ -20,12 +20,10 @@ Research Internship
 *June 2024 - Oct 2024*\
 Research Internship (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex))
 
-**Data Intelligence Lab, University of Hong Kong** (Hong Kong SAR)\
-*Sept 2023 - May 2024*\
-Research Internship (Advisor: Prof. [Chao Huang](https://sites.google.com/view/chaoh))
-
 News
 -------
+* **Jan 2026:** Two papers accepted to **ICLR 2026**, congratulations to all co-authors!
+* **Dec 2025:** I'm attending **NeurIPS 2025** in San Diego. Let's meet up!
 * **Sep 2025:** Arrive in Davis to begin my Ph.D. journey.
 * **Jun 2025:** Start summer research internship at Tencent.
 * **Nov 2024:** I'm attending **EMNLP 2024** in Miami. Let's meet up!

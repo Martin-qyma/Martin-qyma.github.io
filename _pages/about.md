@@ -8,17 +8,21 @@ redirect_from:
 ---
 I am a first-year CS Ph.D. student at UC Davis, co-advised by Professor [Zhe Zhao](https://sites.google.com/view/zhezhao) and Professor [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang). Before that, I obtained my Bachelor degree at The University of Hong Kong (HKU).
 
-I develop generative models that align with human preferences and interactions, mainly focusing on LLM post-training techniques such as reinforcement learning and reward modeling. I also work on retrieving and reasoning over complex relational structures, with applications in recommender systems.
+I develop generative models that align with plural human preferences and interactions. Technically, I focus on LLM post-training, especially multi-turn reinforcement learning and reward modeling.
 
-Experience
+Industrial Experience
 ----------
-**WeChat, Tencent** (Shenzhen, China)\
-*June 2025 - Sept 2025*\
-Research Internship
+<img src="../images/microsoft_logo.svg" alt="Microsoft" height="64" style="float: right; margin-left: 12px;"> **Microsoft Research** (Redmond, Washington, USA)\
+*June 2026 - Sept 2026*\
+Summer Research Internship
 
-**Department of Computer Science, Yale University** (New Haven, Connecticut)\
+<img src="../images/wechat.jpg" alt="WeChat" height="64" style="float: right; margin-left: 12px;"> **WeChat, Tencent** (Shenzhen, China)\
+*June 2025 - Sept 2025*\
+Summer Research Internship
+
+<!-- **Department of Computer Science, Yale University** (New Haven, Connecticut)\
 *June 2024 - Oct 2024*\
-Research Internship (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex))
+Research Internship (Advisor: Prof. [Rex Ying](https://www.cs.yale.edu/homes/ying-rex)) -->
 
 News
 -------

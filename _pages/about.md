@@ -12,25 +12,13 @@ I develop generative models that align with plural human preferences and interac
 
 Industrial Experience
 ----------
-<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1em;" markdown="1">
-<div style="flex: 1;" markdown="1">
-
 **Microsoft Research** (Redmond, Washington, USA)\
 *June 2026 - Now*\
 Summer Research Internship
-</div>
-<img src="/images/microsoft_logo.svg" alt="Microsoft" height="64" style="flex-shrink: 0;">
-</div>
-
-<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1em;" markdown="1">
-<div style="flex: 1;" markdown="1">
 
 **WeChat, Tencent** (Shenzhen, China)\
 *June 2025 - Sept 2025*\
 Summer Research Internship
-</div>
-<img src="/images/wechat.jpg" alt="WeChat" height="64" style="flex-shrink: 0;">
-</div>
 
 <!-- **Department of Computer Science, Yale University** (New Haven, Connecticut)\
 *June 2024 - Oct 2024*\

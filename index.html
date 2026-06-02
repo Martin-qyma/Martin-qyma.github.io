@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Qiyao Ma (马琦尧)</title>
+  <meta name="description" lang="en" content="Academic website of Qiyao (Martin) Ma, CS Ph.D. student at UC Davis.">
+  <meta name="keywords" lang="en" content="Qiyao Ma, Martin Ma, UC Davis, LLM, reinforcement learning, reward modeling." />
+
+  <link rel="shortcut icon" href="images/poker.jpg">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="css/custom.css">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="css/academicons.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+  <script src="js/jquery-2.1.3.min.js"> </script>
+
+  <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js"></script>
+  <![endif]-->
+
+  <style>
+    li.indented {
+        position: relative;
+        padding-left: 90px;
+    }
+    li.indented::before {
+        content: attr(data-date);
+        position: absolute;
+        left: 0;
+        top: 0;
+        white-space: nowrap;
+    }
+  </style>
+
+</head>
+
+
+<body>
+
+  <header class="site-header">
+    <div class="wrapper">
+      <nav class="site-nav">
+        <a href="#" class="menu-icon">
+          <svg viewBox="0 0 18 15">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </a>
+
+        <div class="trigger">
+          <a class="page-link" href="#bio"><b>Biography</b></a>
+          <a class="page-link" href="#Education"><b>Education</b></a>
+          <a class="page-link" href="#Experiences"><b>Experiences</b></a>
+          <a class="page-link" href="#news"><b>News</b></a>
+          <a class="page-link" href="#publications"><b>Publications</b></a>
+          <a class="page-link" href="#awards"><b>Honors & Awards</b></a>
+          <a class="page-link" href="#misc"><b>Misc</b></a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <div id="profile-cover" class="cover shallow-bg img-responsive">
+    <div id="profile-namecard" class="profile-wrapper wrapper-light">
+      <div id="my-pic" class="profile-col profile-col-1">
+        <img id="profile-avatar" src="./images/poker.jpg" alt="Qiyao Ma" class="circle-img border-dark"/>
+      </div>
+      <div id="my-contact" class="profile-col profile-col-2">
+        <div id="my-name" class="text-grey-dark">
+          Qiyao Ma (马琦尧)<br>
+        </div>
+        <div id="my-title" class="text-grey">
+          CS Ph.D. Student @ UC Davis
+        </div>
+        <div class="social-media">
+          <a href="https://scholar.google.com/citations?user=_imqiJoAAAAJ&hl=en&oi=ao" class="icon-button github">
+            <i class="ai ai-google-scholar-square icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="https://github.com/Martin-qyma" class="icon-button github">
+            <i class="fa fa-github icon-github"></i>
+            <span></span>
+          </a>
+
+          <a href="mailto:martin.qyma@gmail.com" class="icon-button github">
+            <i class="fa fa-envelope icon-github"></i>
+            <span></span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="page-content">
+<div class="wrapper">
+
+<div id="bio" class="bio">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-id-card" aria-hidden="true"></i>
+    About
+  </h1>
+  <div class="bio-body" style="overflow:hidden;">
+    <p>
+      I am a first-year CS Ph.D. student at <a href="https://www.ucdavis.edu/"><strong>UC Davis</strong></a>,
+      co-advised by <a href="https://sites.google.com/view/zhezhao">Prof. Zhe Zhao</a> and
+      <a href="https://faculty.engineering.ucdavis.edu/jzhang">Prof. Junshan Zhang</a>.
+      Before that, I obtained my Bachelor's degree at
+      <a href="https://www.hku.hk/"><strong>The University of Hong Kong (HKU)</strong></a>.
+      <br><br>
+      I develop generative models that align with plural human preferences and interactions.
+      Technically, I focus on LLM post-training, especially multi-turn reinforcement learning and reward modeling.
+    </p>
+  </div>
+</div>
+
+<div id="Education" class="bio">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+    Education
+  </h1>
+  <div class="bio-body" style="overflow:hidden;">
+    <table>
+      <tbody>
+        <tr>
+          <td width="90%">
+            <strong>Ph.D. in Computer Science</strong> &nbsp;&nbsp; Sep. 2025 - Present<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <b>University of California, Davis (UC Davis)</b>, Davis, CA, U.S.<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; Advisors: <a href="https://sites.google.com/view/zhezhao">Prof. Zhe Zhao</a> and <a href="https://faculty.engineering.ucdavis.edu/jzhang">Prof. Junshan Zhang</a>
+          </td>
+          <td width="10%">
+            <!-- Drop a UC Davis logo into images/icon/ucdavis.png and uncomment:
+            <img src="images/icon/ucdavis.png" width="80%" style="display:block;margin-left:auto;margin-right:auto;"> -->
+          </td>
+        </tr>
+        <tr style="height: 10px;"><td></td></tr>
+        <tr>
+          <td width="90%">
+            <strong>Bachelor's Degree</strong> &nbsp;&nbsp; - Jun. 2025<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <b>The University of Hong Kong (HKU)</b>, Hong Kong SAR<br>
+          </td>
+          <td width="10%">
+            <!-- Drop an HKU logo into images/icon/hku.png and uncomment:
+            <img src="images/icon/hku.png" width="80%" style="display:block;margin-left:auto;margin-right:auto;"> -->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="Experiences" class="bio">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-tasks" aria-hidden="true"></i>
+    Experiences
+  </h1>
+  <div class="bio-body" style="overflow:hidden;">
+    <table>
+      <tr>
+        <td width="90%">
+          <li>
+            <strong>Jun. 2026 -- now, <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a></strong>, Redmond, WA, U.S.<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <strong>Summer Research Intern</strong><br>
+          </li>
+        </td>
+        <td width="10%">
+          <img src="images/microsoft_logo.svg" width="90%" style="display:block;margin-left:auto;margin-right:auto;">
+        </td>
+      </tr>
+
+      <tr style="height: 5px;"><td></td></tr>
+
+      <tr>
+        <td width="90%">
+          <li>
+            <strong>Jun. 2025 -- Sept. 2025, <a href="https://www.tencent.com/en-us/">WeChat, Tencent</a></strong>, Shenzhen, China<br>
+            &nbsp;&nbsp;&nbsp;&nbsp; <strong>Summer Research Intern</strong><br>
+          </li>
+        </td>
+        <td width="10%">
+          <img src="images/wechat.jpg" width="70%" style="display:block;margin-left:auto;margin-right:auto;border-radius:8px;">
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div id="news" class="bio">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-bullhorn" aria-hidden="true"></i>
+    News
+  </h1>
+  <ul>
+    <li class="indented" data-date="[Jan, 2026]"> Two papers accepted to <b>ICLR 2026</b>, congratulations to all co-authors! </li>
+    <li class="indented" data-date="[Dec, 2025]"> I'm attending <b>NeurIPS 2025</b> in San Diego. Let's meet up! </li>
+    <li class="indented" data-date="[Sep, 2025]"> Arrived in Davis to begin my Ph.D. journey. </li>
+    <li class="indented" data-date="[Jun, 2025]"> Started summer research internship at <b>Tencent</b>. </li>
+    <li class="indented" data-date="[Nov, 2024]"> I'm attending <b>EMNLP 2024</b> in Miami. Let's meet up! </li>
+    <li class="indented" data-date="[Sep, 2024]"> Our paper <b>XRec</b> is accepted to <b>EMNLP 2024</b>. </li>
+    <li class="indented" data-date="[May, 2024]"> Started summer research internship at <b>Yale University</b>. </li>
+  </ul>
+</div>
+
+<div id="publications" class="publications">
+  <h1 class="md-heading text-left">
+    <i class="fa fa-file" aria-hidden="true"></i>
+    Publications (<a href="https://scholar.google.com/citations?user=_imqiJoAAAAJ&hl=en&oi=ao">Google Scholar</a>)
+  </h1>
+  <div class="pub-list">
+
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/EMNLP2024.png">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          XRec: Large Language Models for Explainable Recommendation
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Xubin Ren</a>,
+            <a class="author">Chao Huang</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">EMNLP 2024</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2406.02377"><strong>Paper</strong></a>]
+          [<a class="tag" href="https://github.com/HKUDS/XRec"><strong>Code</strong></a>]
+          [<a class="tag" href="https://mp.weixin.qq.com/s/SNIAPbtSV6F76WYJNTkbRQ"><strong>Media</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub-placeholder.svg">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Learning More with Less: A Dynamic Dual-Level Down-Sampling Framework for Efficient Policy Optimization
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author">Chao Wang</a>,
+            <a class="author">Tao Yang</a>,
+            <a class="author">Hongtao Tian</a>,
+            <a class="author">Yunsheng Shi</a>,
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Xiaotao Liu</a>,
+            <a class="author">Ting Yao</a>,
+            <a class="author">Wenbo Ding</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">ICLR 2026</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2509.22115"><strong>Paper</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub-placeholder.svg">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          MobCLIP: Learning General-purpose Geospatial Representation at Scale
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author">Ya Wen</a>,
+            <a class="author">Jixuan Cai</a>,
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Linyan Li</a>,
+            <a class="author">Xinhua Chen</a>,
+            <a class="author">Chris Webster</a>,
+            <a class="author">Yulun Zhou</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">ICLR 2026</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2506.01297"><strong>Paper</strong></a>]
+          [<a class="tag" href="https://github.com/ylzhouchris/MobCLIP"><strong>Code</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub-placeholder.svg">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          From Faithfulness to Correctness: Generative Reward Models that Think Critically
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Yunsheng Shi</a>,
+            <a class="author">Hongtao Tian</a>,
+            <a class="author">Chao Wang</a>,
+            <a class="author">Weiming Chang</a>,
+            <a class="author">Ting Yao</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">Preprint 2025</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2509.25409"><strong>Paper</strong></a>]
+          [<a class="tag" href="https://github.com/Martin-qyma/TRM"><strong>Code</strong></a>]
+          [<a class="tag" href="https://huggingface.co/QiyaoMa/TRM"><strong>Huggingface</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub-placeholder.svg">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Menglin Yang</a>,
+            <a class="author">Mingxuan Ju</a>,
+            <a class="author">Tong Zhao</a>,
+            <a class="author">Neil Shah</a>,
+            <a class="author">Rex Ying</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">Preprint 2024</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2411.13865"><strong>Paper</strong></a>]
+          [<a class="tag" href="https://github.com/Martin-qyma/HERec"><strong>Code</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+    <div class="pub">
+      <div class="pub-left">
+        <img class="intro-img frame" src="images/pub-placeholder.svg">
+      </div>
+      <div class="pub-right">
+        <div class="title">
+          Low-Rank Adaptation for Foundation Models: A Comprehensive Review
+        </div>
+        <div class="authors">
+          <font style="font-size: 10pt;">
+            <a class="author">Menglin Yang</a>,
+            <a class="author">Jialin Chen</a>,
+            <a class="author">Yifei Zhang</a>,
+            <a class="author">Jiahong Liu</a>,
+            <a class="author">Jiasheng Zhang</a>,
+            <a class="author"><b><u>Qiyao Ma</u></b></a>,
+            <a class="author">Harshit Verma</a>,
+            <a class="author">Qianru Zhang</a>,
+            <a class="author">Min Zhou</a>,
+            <a class="author">Irwin King</a>,
+            <a class="author">Rex Ying</a>
+          </font>
+        </div>
+        <div class="publish">
+          <span class="publisher">Preprint 2025</span>
+        </div>
+        <div class="tags">
+          [<a class="tag" href="https://arxiv.org/abs/2501.00365"><strong>Paper</strong></a>]
+        </div>
+      </div>
+    </div>
+
+    <hr class="pub-divider">
+
+  </div>
+</div>
+</div>
+
+<div class="wrapper">
+  <div id="awards" class="bio">
+    <h1 class="md-heading text-left">
+      <i class="fa fa-trophy" aria-hidden="true"></i>
+      Honors & Awards
+    </h1>
+    <strong>Scholarships</strong>
+    <ul>
+      <li> Talent Development Scholarship, The University of Hong Kong (2022 &amp; 2023, twice) </li>
+      <li> Wong Shek-Yung Memorial Enrichment Award, The University of Hong Kong (2023) </li>
+    </ul>
+    <strong>Competitions</strong>
+    <ul>
+      <li> 3rd place, Simon Marais Mathematics Competition (The University of Hong Kong) </li>
+      <li> First Prize, National Mathematics Olympiad (Jiangsu Province) </li>
+      <li> First Prize, National Physics Olympiad (Jiangsu Province) </li>
+    </ul>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div id="misc" class="bio">
+    <div class="bio-body" style="overflow:hidden;">
+      <h1 class="md-heading text-left">
+        <i class="fa fa-heartbeat" aria-hidden="true"></i>
+        Miscellaneous
+      </h1>
+      <p>
+        Outside of research, I am a competitive badminton player and enjoy poker. 🏸
+      </p>
+      <strong>Badminton</strong>
+      <ul>
+        <li> Sportsmanship Award Athlete, National Youth Badminton Championships (Jiangsu Province) </li>
+        <li> 3rd place (Wuxi City Team), National Youth Badminton Championships (Jiangsu Province) </li>
+        <li> 5th place (Men's Double), National Youth Badminton Championships (Jiangsu Province) </li>
+        <li> Champion (Captain), High School Badminton League (Wuxi City) </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>Email:</li>
+          <li><a href="mailto:martin.qyma@gmail.com">martin.qyma [at] gmail.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <a href="https://scholar.google.com/citations?user=_imqiJoAAAAJ&hl=en&oi=ao" class="icon-button github">
+          <i class="ai ai-google-scholar-square icon-github"></i>
+          <span></span>
+        </a>
+        <a href="https://github.com/Martin-qyma" class="icon-button github">
+          <i class="fa fa-github icon-github"></i>
+          <span></span>
+        </a>
+        <a href="mailto:martin.qyma@gmail.com" class="icon-button github">
+          <i class="fa fa-envelope icon-github"></i>
+          <span></span>
+        </a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p class="text">Last updated: June, 2026.<br>The style of this website is borrowed from <a href="http://hexianghu.com/">Hexiang Hu's</a>.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="back-to-top">Top</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+        }
+    });
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    });
+});
+</script>
+
+</body>
+</html>
